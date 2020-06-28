@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96b4fcd4-5074-49e5-aeb1-1d944b7ac9e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cwzyi23ArwJJXOoYY5hJF4YT1D" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/maths" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exercise1" />
+      <recent name="demo.d_defaultvisitorwithminus" />
+      <recent name="demo.c_defaultVisitor" />
+      <recent name="demo.b_originalvisitorwithminus" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/maths" />
+      <recent name="$PROJECT_DIR$/src/util" />
+      <recent name="$PROJECT_DIR$/src/exercise1" />
+      <recent name="$PROJECT_DIR$/src/demo/d_defaultvisitorwithminus" />
+      <recent name="$PROJECT_DIR$/src/demo/c_defaultVisitor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DefaultVisitorTest">
+    <configuration name="DefaultVisitorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSpecialistsDefaultVisitor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise1" />
+      <option name="MAIN_CLASS_NAME" value="exercise1.DefaultVisitorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitorTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSpecialistsDefaultVisitor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.d_defaultvisitorwithminus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo.d_defaultvisitorwithminus" />
+      <option name="MAIN_CLASS_NAME" value="demo.d_defaultvisitorwithminus.VisitorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSpecialistsDefaultVisitor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.b_originalvisitorwithminus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo.b_originalvisitorwithminus" />
+      <option name="MAIN_CLASS_NAME" value="demo.b_originalvisitorwithminus.VisitorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSpecialistsDefaultVisitor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.c_defaultvisitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo.c_defaultvisitor" />
+      <option name="MAIN_CLASS_NAME" value="demo.c_defaultvisitor.VisitorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DefaultVisitorTest" />
+        <item itemvalue="JUnit.VisitorTest (1)" />
+        <item itemvalue="JUnit.VisitorTest (1)" />
+        <item itemvalue="JUnit.VisitorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96b4fcd4-5074-49e5-aeb1-1d944b7ac9e3" name="Default Changelist" comment="" />
+      <created>1591454700423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591454700423</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591507650460">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="428" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1591507650460" />
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1591513655776">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1591513655776" />
+    <state x="492" y="351" width="455" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591510431379">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="492" y="351" width="455" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1591510431379" />
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom" timestamp="1591521091411">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1591521091411" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center" timestamp="1591521091410">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1591521091410" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left" timestamp="1591521091409">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1591521091409" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right" timestamp="1591521091411">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1591521091411" />
+    <state x="208" y="44" key="SettingsEditor" timestamp="1591514777400">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="44" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1591514777400" />
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1591509683205">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1591509683205" />
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591455098046">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1591455098046" />
+    <state x="114" y="66" key="new project wizard" timestamp="1591461396189">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="114" y="66" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1591461396189" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1591514759210">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1591514759210" />
+  </component>
+</project>

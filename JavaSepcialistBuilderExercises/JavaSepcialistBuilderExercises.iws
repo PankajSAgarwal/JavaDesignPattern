@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f221231-097d-4216-bb89-0bf4c9f5aa15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cZFZSew6XcbigsuyELy8vxSx9p" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/builder/exercise2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/builder/exercise2" />
+      <recent name="$PROJECT_DIR$/src/builder/exercise1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalendarTest">
+    <configuration name="CalendarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSepcialistBuilderExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="builder.exercise2" />
+      <option name="MAIN_CLASS_NAME" value="builder.exercise2.CalendarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalendarTest.testOnlyDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSepcialistBuilderExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="builder.exercise2" />
+      <option name="MAIN_CLASS_NAME" value="builder.exercise2.CalendarTest" />
+      <option name="METHOD_NAME" value="testOnlyDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadBuilderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSepcialistBuilderExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="builder.exercise1" />
+      <option name="MAIN_CLASS_NAME" value="builder.exercise1.ThreadBuilderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalendarTest" />
+        <item itemvalue="JUnit.CalendarTest.testOnlyDate" />
+        <item itemvalue="JUnit.ThreadBuilderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f221231-097d-4216-bb89-0bf4c9f5aa15" name="Default Changelist" comment="" />
+      <created>1590728263807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590728263807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1590728680120">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1590728680120" />
+    <state width="1398" height="276" key="GridCell.Tab.0.bottom" timestamp="1590770474947">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590770474947" />
+    <state width="1398" height="276" key="GridCell.Tab.0.center" timestamp="1590770474946">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1590770474946" />
+    <state width="1398" height="276" key="GridCell.Tab.0.left" timestamp="1590770474946">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1590770474946" />
+    <state width="1398" height="276" key="GridCell.Tab.0.right" timestamp="1590770474946">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1590770474946" />
+    <state width="1398" height="276" key="GridCell.Tab.1.bottom" timestamp="1590770474948">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590770474948" />
+    <state width="1398" height="276" key="GridCell.Tab.1.center" timestamp="1590770474947">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1590770474947" />
+    <state width="1398" height="276" key="GridCell.Tab.1.left" timestamp="1590770474947">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1590770474947" />
+    <state width="1398" height="276" key="GridCell.Tab.1.right" timestamp="1590770474948">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1590770474948" />
+    <state x="208" y="43" key="SettingsEditor" timestamp="1590735407989">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1590735407989" />
+    <state x="450" y="200" width="540" height="524" key="StructurePopup" timestamp="1590729821302">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="450" y="200" width="540" height="524" key="StructurePopup/0.23.1440.877@0.23.1440.877" timestamp="1590729821302" />
+    <state x="432" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590728444147">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="432" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1590728444147" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/builder/exercise2/CalendarGenerator.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/builder/exercise2/CalendarTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

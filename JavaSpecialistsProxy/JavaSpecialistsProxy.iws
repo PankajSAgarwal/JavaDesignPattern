@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4985c4c4-92ed-43f1-8a54-8646ffeee776" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cfchT2P69rfu902T4e4IoCeVpj" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/util" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.52625" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exercise1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/util" />
+      <recent name="$PROJECT_DIR$/src/exercise2" />
+      <recent name="$PROJECT_DIR$/src/exercise1" />
+      <recent name="$PROJECT_DIR$/src/playground/proxyequals" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VirtualProxyTest (1)">
+    <configuration name="ATest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.proxyequals.ATest" />
+      <module name="JavaSpecialistsProxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.proxyequals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="JavaSpecialistsProxy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScandinvianExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.ScandinvianExample" />
+      <module name="JavaSpecialistsProxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VirtualProxyTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSpecialistsProxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise2" />
+      <option name="MAIN_CLASS_NAME" value="exercise2.VirtualProxyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VirtualProxyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSpecialistsProxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise1" />
+      <option name="MAIN_CLASS_NAME" value="exercise1.VirtualProxyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VirtualProxyTest (1)" />
+        <item itemvalue="Application.ScandinvianExample" />
+        <item itemvalue="JUnit.VirtualProxyTest" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.ATest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4985c4c4-92ed-43f1-8a54-8646ffeee776" name="Default Changelist" comment="" />
+      <created>1590923207201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590923207201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="128" width="800" height="714" key="#Intentions" timestamp="1590924130022">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="128" width="800" height="714" key="#Intentions/0.23.1440.877@0.23.1440.877" timestamp="1590924130022" />
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1590928997746">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1590928997746" />
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom" timestamp="1590936916639">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590936916639" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center" timestamp="1590936916638">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1590936916638" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left" timestamp="1590936916638">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1590936916638" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right" timestamp="1590936916639">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1590936916639" />
+    <state x="229" y="66" key="SettingsEditor" timestamp="1590930274168">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="66" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1590930274168" />
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1590933812205">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1590933812205" />
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590934524713">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1590934524713" />
+    <state x="114" y="66" key="new project wizard" timestamp="1590936912664">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="114" y="66" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1590936912664" />
+    <state x="482" y="76" key="refactoring.ChangeSignatureDialog" timestamp="1590925091536">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="482" y="76" key="refactoring.ChangeSignatureDialog/0.23.1440.877@0.23.1440.877" timestamp="1590925091536" />
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1590925191965">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1590925191965" />
+  </component>
+</project>

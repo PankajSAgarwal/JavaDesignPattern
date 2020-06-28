@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0343b908-77e2-4ab7-b64b-87aeed6b8f95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ccn7w9xvV7W2mWSfpOJ41AuCnp" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/memento/exercise2" />
+      <recent name="$PROJECT_DIR$/src/memento/exercise1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MementoTest (1)">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="JavaSpecialistsMemento" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HIVLab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="memento.exercise1.HIVLab" />
+      <module name="JavaSpecialistsMemento" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="memento.exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MementoTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSpecialistsMemento" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="memento.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="memento.exercise2" />
+      <option name="MAIN_CLASS_NAME" value="memento.exercise2.MementoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MementoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaSpecialistsMemento" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="memento.exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="memento.exercise1" />
+      <option name="MAIN_CLASS_NAME" value="memento.exercise1.MementoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MementoTest (1)" />
+        <item itemvalue="Application.HIVLab" />
+        <item itemvalue="JUnit.MementoTest" />
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0343b908-77e2-4ab7-b64b-87aeed6b8f95" name="Default Changelist" comment="" />
+      <created>1590836586558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590836586558</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1590848597565">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="466" y="169" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1590848597565" />
+    <state x="494" y="353" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590849208610">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="494" y="353" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1590849208610" />
+    <state x="258" y="123" key="DBNavigator.MethodExecutionHistoryDialog" timestamp="1590847421935">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="258" y="123" key="DBNavigator.MethodExecutionHistoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1590847421935" />
+    <state width="1398" height="190" key="GridCell.Tab.0.bottom" timestamp="1590849660321">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="190" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590849660321" />
+    <state width="1398" height="190" key="GridCell.Tab.0.center" timestamp="1590849660320">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="190" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1590849660320" />
+    <state width="1398" height="190" key="GridCell.Tab.0.left" timestamp="1590849660320">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="190" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1590849660320" />
+    <state width="1398" height="190" key="GridCell.Tab.0.right" timestamp="1590849660320">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="190" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1590849660320" />
+    <state x="432" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590845681361">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="432" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1590845681361" />
+    <state x="458" y="221" key="extract.method.dialog" timestamp="1590847621949">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="221" key="extract.method.dialog/0.23.1440.877@0.23.1440.877" timestamp="1590847621949" />
+    <state x="114" y="66" key="new project wizard" timestamp="1591078930489">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="114" y="66" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1591078930489" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1590839172252">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1590839172252" />
+  </component>
+</project>
